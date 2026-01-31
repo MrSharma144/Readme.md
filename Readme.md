@@ -9,13 +9,13 @@
   <a href="mailto:prateekps0123@gmail.com">
     <img src="https://img.shields.io/badge/Email-prateekps0123%40gmail.com-red?style=for-the-badge&logo=gmail">
   </a>
-  <a href="https://www.linkedin.com" target="_blank">
+  <a href="https://www.linkedin.com/in/prateek-sharma-45851a201/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Prateek%20Sharma-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://github.com" target="_blank">
+  <a href="https://github.com/MrSharma144" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-PrateekSharma-black?style=for-the-badge&logo=github">
   </a>
-  <a href="https://leetcode.com" target="_blank">
+  <a href="https://leetcode.com/u/MrSharma144/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-150%2B%20Problems-orange?style=for-the-badge&logo=leetcode">
   </a>
 </p>
@@ -62,7 +62,7 @@ I'm a **passionate Full Stack Developer** who loves building **scalable, user-fr
 ## 🚀 Projects
 
 ### 🔹 **WorkShala – Job & Internship Portal**
-🔗 *Project Link: Coming Soon*  
+🔗 *Project Link: https://workshala-in.vercel.app/*  
 **Tech:** React, JavaScript, Python, Django REST APIs  
 
 - Built a full-featured job & internship platform (Internshala-like)
@@ -74,7 +74,7 @@ I'm a **passionate Full Stack Developer** who loves building **scalable, user-fr
 ---
 
 ### 🔹 **IntelliBot – AI Powered Chatbot**
-🔗 *Project Link: Coming Soon*  
+🔗 *Project Link: https://github.com/MrSharma144/React-AI-Tool*  
 **Tech:** React, JavaScript, Tailwind CSS, Gemini API, Regex  
 
 - Developed an AI chatbot with smooth UI & UX
@@ -125,9 +125,9 @@ I'm a **passionate Full Stack Developer** who loves building **scalable, user-fr
 ## 📫 Let’s Connect
 
 - 📧 **Email:** [prateekps0123@gmail.com](mailto:prateekps0123@gmail.com)
-- 💼 **LinkedIn:** https://www.linkedin.com  
-- 🧑‍💻 **GitHub:** https://github.com  
-- 🧠 **LeetCode:** https://leetcode.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/prateek-sharma-45851a201/  
+- 🧑‍💻 **GitHub:** https://github.com/MrSharma144  
+- 🧠 **LeetCode:** https://leetcode.com/u/MrSharma144/  
 
 ---
 
